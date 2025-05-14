@@ -1,10 +1,4 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtYjhkam5oYzc3b25jZHg0YmcyNTZ3NmVzMGlza3hucnBqbXhmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
+<div align="right">
   <a href="https://www.youtube.com/@yitanr798" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="37" height="25" alt="youtube logo"  />
   </a>
@@ -13,18 +7,12 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Randall-BL.Randall-BL&"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFtYjhkam5oYzc3b25jZHg0YmcyNTZ3NmVzMGlza3hucnBqbXhmNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif"  />
 </div>
 
 ###
 
 <h3 align="center">I am a Computer Engineering student at the Costa Rica Institute of Technology. Below you will find most of the projects I have worked on, either individually or collaboratively. I am passionate about Backend development and problem-solving. Thank you for visiting my profile.</h3>
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI2ZGFvM2V1bGxvZ21nc3dtYXVlN2Nha2szMmZ4bmJ2eGQxcjE4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
-</div>
 
 ###
 
@@ -90,21 +78,29 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTI2ZGFvM2V1bGxvZ21nc3dtYXVlN2Nha2szMmZ4bmJ2eGQxcjE4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/AdtB8TtizElk0OrRGR/giphy.gif"  />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Randall-BL&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Randall-BL&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Randall-BL/Randall-BL/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Randall-BL/Randall-BL/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Randall-BL/Randall-BL/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Randall-BL&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
 ###
